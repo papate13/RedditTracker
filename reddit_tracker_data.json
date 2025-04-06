@@ -1,0 +1,20 @@
+{
+  "mcservers": [
+    {
+      "timestamp": "2025-04-05T23:05:23.796573",
+      "online_users": 65
+    },
+    {
+      "timestamp": "2025-04-05T23:06:23.961498",
+      "online_users": 63
+    },
+    {
+      "timestamp": "2025-04-05T23:07:24.144162",
+      "online_users": 68
+    },
+    {
+      "timestamp": "2025-04-05T23:08:24.334525",
+      "online_users": 67
+    }
+  ]
+}
